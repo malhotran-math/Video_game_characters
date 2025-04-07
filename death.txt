@@ -1,0 +1,35 @@
+				
+				NAME: Deathstroke
+			   REAL NAME: Shade Wilson
+		       NICKNAMES:Deathstroke the Terminator
+		      	
+	 FIRST APPEARENCE: The New Teen Titans #2-Today...The Terminator!
+
+
+
+
+	SKILLS:-
+	Agility,Berserker Strength,Danger Sense,Enhance Mutation
+	Escape Artist,Gadgets,Healing,Insanely Rich,Intellect
+	Longevity,Marksmanship,Power Suit,Stamina,Stealth
+	Super Hearing,Super Sight,Super Smell,Super Speed
+	Super Strength,Swordsmanship,Tracking,Unarmed Combat
+	Weapon Master
+
+	DESCRIPTION:-
+	Genetically engineered to surpass all human limits, 
+	Slade Wilson was once a soldier, but now works as one of the 
+	most feared assassins in the DC Universe. He has frequently 
+	clashed with the Teen Titans, the Justice League and Batman.
+
+
+
+
+	
+		<100> Exit
+		<101> Home
+		<102> Back
+
+
+
+		

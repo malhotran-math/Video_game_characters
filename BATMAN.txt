@@ -1,0 +1,32 @@
+		      		NAME: Batman
+			   REAL NAME: Bruce Wayne
+		    NICKNAMES: The Dark Knight, The Caped Crusader
+ 			
+	 		    BIRTHDAY: Feburary 19, 1972
+                   
+	 	 FIRST APPEARENCE: Detective Comics #27, 1939
+
+	SKILLS:
+   	Genius level intellect, peak physical and mental conditioning,
+	master martial artist, acrobat, detective, escapologist,
+	strategist, swordsman, tactician, and marksman,
+	use of high tech equipment, weapons, armor and gadgets,
+	master of stealth and disguise, advanced scientific and 
+	technological proficiency, excellent observational skills,
+	access to vast wealth and criminal records, trained computer
+	hacker, photographic memory.
+		
+
+  	DESCRIPTION:
+	Bruce Wayne, who witnessed the murder of his billionare 
+	parents as a child, swore to avenge their deaths. He trained
+	extensively to achieve mental and physical perfection, 
+	mastering martial arts, detective skills, and criminal
+	psychology. Costumed as a bat to prey on criminal's fear,
+	and utilizing a high-tech arsenal, 
+	He became the legendary Batman.
+
+			 
+		<100> Exit
+		<101> Home
+		<102> Back

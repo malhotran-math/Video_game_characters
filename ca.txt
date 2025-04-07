@@ -1,0 +1,27 @@
+			NAME: Captain America
+		   REAL NAME: Steve Rogers
+		 OTHER NAMES: The Sentinel of Libery
+
+		   BIRTHDAY: 4th July, 1920
+
+	      FIRST APPEARENCE: Captain American comic #1
+
+	SKILLS:-
+	Olympic-level athleticism with peak human cognition and
+        physical condition, Master martial artist, agility expert, 
+        tactician, marksman. Excellent field commander
+        Wields vibranium-steel alloy shield
+
+	DESCRIPTION:-
+	During World War II, U.S. Army soldier Steve Rogers volunteered 
+        to receive the experimental Super-Soldier Serum. Enhanced to the 
+        pinnacle of human physical potential, he became Captain America. 
+        After a failed mission left him encased in ice for decades, 
+        he was found and revived by the Avengers, 
+        later becoming the team's leader.
+
+
+
+		<100> Exit
+		<101> Home
+		<102> Back

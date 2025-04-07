@@ -1,0 +1,31 @@
+				NAME: Harley Quinn
+			   REAL NAME: Harleen Frances Quinzel
+		 ALIASES:Dr. Holly Chance, Dr. Jessica Seaborn, Lee Harkwin
+
+	     FIRST APPEARANCE: The Batman Adventures #12 - Batgirl: Day One
+
+
+
+
+	SKILLS:-
+	Agility,Attractive Female,Gadgets,Intellect,Marksmanship,Stamina
+        Stealth,Super Strength,Unarmed Combat,Weapon Master
+
+
+	DESCRIPTION:-
+	Harleen Quinzel, the Arkham psychiatrist who fell in love with the 
+	Joker. A "mad love" would lead her to a life of crime as Harley Quinn, 
+	frequent accomplice, and would-be-girlfriend of the Clown Prince of
+	Crime.In The New 52, she is a member of the Suicide Squad.
+
+
+
+
+
+
+
+		<100> Exit
+		<101> Home
+		<102> Back
+
+		

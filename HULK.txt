@@ -1,0 +1,28 @@
+			NAME: Hulk
+		   REAL NAME: Dr. Bruce Banner
+		OTHER NAMES: Doc Green
+		 
+	    FIRST APPEARENCE: The Incredible Hulk #1
+
+	SKILLS:-
+	Genius-level intellect, Skilled hand-to-hand combatant, 
+        Superhuman strength, speed, jumping, endurance, reflexes,
+	durability, Immunity to diseases and viruses, 
+	Adrenal activation and anger empowerment, Accelerated healing 
+	and longevity, Resistance to mind control, Ability to sense astral 
+	forms and hold his breath for long periods of time, Immortality
+	Increases strength through damage
+	
+	DESCRIPTION:-
+	After being bombarded with a massive dose of gamma radiation while 
+	saving a young man's life during the testing of an experimental bomb, 
+	Dr. Robert Bruce Banner was transformed into the Incredible Hulk: 
+	a green behemoth who is the living personification of rage and 
+	pure physical strength. He has currently taken on a new persona: Doc Green.
+
+
+
+
+		<100> Exit
+		<101> Home
+		<102> Back

@@ -1,0 +1,26 @@
+		      		NAME: Yoda
+			   REAL NAME: Yoda
+	NICKNAMES: Master Yoda,Grand Master Yoda, Jedi Master Yoda
+ 			
+	 FIRST APPEARENCE: Famous Monsters of Filmland #167
+
+	SKILLS:
+   	Agility,Cosmic Awareness,Danger Sense,Electricity Control
+	Empathy,Energy Absorption,Escape Artist,Force Field
+	Illusion Casting,Intellect,Leadership,Levitation
+	Marksmanship,Power Item,Precognition,Probability Manipulation
+	Sense Death,Stamina,Stealth,Super Speed,Swordsmanship
+	Telekinesis,Telepathy,Unarmed Combat,Voice-induced Manipulation
+	Weapon Master
+		
+
+  	DESCRIPTION:
+	One of the greatest Jedi masters of the Old Republic. He 
+	trained Luke Skywalker in the ways of the Jedi and has even 
+	faced characters like Count Dooku and the Emperor and lived 
+	to tell the tale.
+
+			 
+		<100> Exit
+		<101> Home
+		<102> Back

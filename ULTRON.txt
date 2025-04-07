@@ -1,0 +1,23 @@
+			NAME: Ultron
+		 OTHER NAMES: The Space Knight
+
+	    FIRST APPEARENCE: The Avengers #54
+		
+    SKILLS:-
+    Extreme durability, energy projection, artificial intelligence with
+    robotic body, adaptive, agility, blast power, electronic disruption 
+    and interaction, force field, gadgets, immortal, intellect, radar sense
+    invulnerability, shape shifter, size manipulation, flight
+
+    DESCRIPTION:-
+    Created by Henry Pym to be a technological landmark, he soon    
+    intellectually surpassed Pym, and eventually fought the Avengers
+    after organizing the Masters of Evil. He has clashed with the 
+    Avengers numerous times, and was most recently defeated while 
+    trying to conquer the world.
+
+
+
+		<100> Exit
+		<101> Home
+		<102> Back

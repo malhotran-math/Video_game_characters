@@ -1,0 +1,22 @@
+
+
+
+
+			Here are your characters:
+
+			1.Batman
+			2.Superman
+			3.Flash
+			4.Wonder Woman
+			5.Green Lantern
+			6.Death Stroke
+			7.Joker
+			8.Harley Quinn
+			9.Lex Luthor
+			10.Sinestro
+
+
+
+		<100> Exit
+		<101> Home
+		

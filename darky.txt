@@ -1,0 +1,24 @@
+		      		NAME: Darth Vader
+			   REAL NAME: Anakin Skywalker
+	            NICKNAMES: The Chosen One, Lord Vader
+ 			
+	 FIRST APPEARENCE: Star Wars #1 - Star Wars
+
+	SKILLS:
+   	Agility,Danger Sense,Gadgets,Healing,Implants,Intellect
+	Leadership,Mesmerize,Power Item,Power Suit,Sense Death
+	Stamina,Stealth,Super Speed,Super Strength,Swordsmanship
+	Telekinesis,Telepathy,Tracking,Unarmed Combat,Weapon Master
+
+  	DESCRIPTION:
+	The son of the Sith Lord Darth Vader, Luke Skywalker set 
+	out to save Princess Leia from the Galactic Empire and 
+	became a hero of the Rebel Alliance. Luke began training 
+	to become a Jedi under the tuition of both Obi-Wan Kenobi 
+	and Yoda, and after discovering his heritage and redeeming 
+	his father became the leader of the New Jedi Order and 
+	brought the Jedi back into the Galaxy.
+			 
+		<100> Exit
+		<101> Home
+		<102> Back

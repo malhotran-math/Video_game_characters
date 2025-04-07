@@ -1,0 +1,18 @@
+		
+
+		Here is the list of characters:
+		
+		     1. Captain America
+		     2. Iron Man
+		     3. Ultron
+		     4. Loki
+		     5. Hulk
+		     6. Thor
+		     7. Thanos
+
+
+
+		<100> Exit
+		<101> Home
+		
+		

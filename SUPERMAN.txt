@@ -1,0 +1,25 @@
+				NAME: Superman
+			   REAL NAME: Clark Kent
+			   NICKNAMES: Man of Steel
+
+			    BIRTHDAY: June 18, 1971
+
+	FIRST APPEARENCE: Action Comics #1 Superman : Champion of the oppressed
+
+	SKILLS:-
+        Agility, Berserker Strength, Blast Power,Energy Absorption,Flight,
+	Healing, Heat Vision,Ice Breath,Intellect,Invulnerability,Leadership
+	Longevity, Stamina, Super Hearing, Super Sight, Super Speed,
+	Super Strength,Unarmed Combat,Wind Bursts
+
+	DESCRIPTION:-
+	Rocketed to Earth as an infant from the doomed planet Krypton, Kal-El 
+	was adopted by the loving Kent family and raised in America's heartland 
+	as Clark Kent. Using his immense solar-fueled powers, he became Superman
+ 	to defend mankind against all manner of threats while championing truth, 
+	justice and the American way!
+
+
+ 		  <100> Exit
+		  <101> Home
+		  <102> Back

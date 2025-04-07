@@ -1,0 +1,24 @@
+				   NAME: Lex Luthor
+				
+			FIRST APPEARENCE: Action Comics #23
+	
+	SKILLS:-
+	Blast Power, Energy Manipulation, Energy Shield, Flight,
+        Force Field, Gadgets, Insanely Rich, Intellect, Leadership,
+	Power Item, Power Suit, Probability Manipulation, Radiation, 
+	Stamina, Super Strength, Time Travel, Unarmed Combat, Weapon Master
+
+	DESCRIPTION:-
+	Lex Luthor, Superman's arch-nemesis, is one of the most 
+	gifted beings alive, whose hatred of "interfering aliens"
+	pushes him down the path of a sociopath.Known for his 
+	"ends justifies the means" approach to life, his single-minded 
+        and often brutal focus puts him at odds with The Man of Steel. 
+        Lex Luthor is arguably DC Comic's most iconic villain.
+
+
+
+
+		<100> Exit
+		<101> Home
+		<102> Back

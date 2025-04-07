@@ -1,0 +1,26 @@
+			NAME: Thor
+		OTHER NAMES: God of Thunder
+		 
+	    FIRST APPEARENCE: Wierd Comics #1
+
+      SKILLS:-
+      Agility, Berserker Strength, Blast Power, Divine Powers
+      Electricity Control, Energy-Enhanced Strike, Fire Control
+      Immortal, Invulnerability, Leadership, Magic, Precognition
+      Reality Manpulation, Shape Shifter, Stamina, Super Speed
+      Super Strength, Teleport, Unarmed Combat,Weapon Master
+      Weather Control, Wind Bursts
+	
+      DESCRIPTION:-
+      Thor from Norse Mythology, he is the son of Odin and Jord, 
+      husband of Sif, father of Magni, Modi and Thrud. He is the god of might, 
+      strength, thunder, lightning and weather. He is strongest of all the 
+      gods and men. At Ragnarok, he will slay Jormugand but be slain in turn, 
+      a victim of the serpent's poison. Thor's sons inherit his hammer Mjolnir 
+      after he perishes.
+
+
+
+		<100> Exit
+		<101> Home
+		<102> Back

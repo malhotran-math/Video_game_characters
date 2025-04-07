@@ -1,0 +1,26 @@
+			NAME: Iron Man
+		   REAL NAME: Tony Stark
+		 OTHER NAMES: Armored Avenger
+
+	    FIRST APPEARENCE: Tales of Suspense #39
+		
+     SKILLS:-
+     Blast Power, Electricity Control, Electronic interaction,
+     Energy Absorption, Flight, Force Field, Gadgets, Insanely Rich,
+     Intellect, Invulnerability, Leadership, Magnetism, Power Suit,
+     Psionic, Radar Sense, Stamina, Sub-Mariner, Super Speed, Super Strength, 
+     Technopathy, Weapon Master
+
+     DESCRIPTION:-
+     After he was kidnapped by terrorists and gravely injured, 
+     billionaire industrialist and brilliant engineer Tony Stark was pressured 
+     to create a weapon of mass destruction. Instead, he created a suit of 
+     power armor to escape. Now vowing to protect the world he helped endanger, 
+     he became the Invincible Iron Man.
+		
+
+
+		<100> Exit
+		<101> Home
+		<102> Back
+		

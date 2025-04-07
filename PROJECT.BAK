@@ -1,0 +1,309 @@
+#include<iostream.h>
+#include<conio.h>
+#include<dos.h>
+#include<fstream.h>
+#include<stdio.h>
+#include<string.h>
+
+//
+void main()
+{	clrscr();
+	int n,m,o,b,b1,b2,b3,b4,b5,b6,b7,b8,b9,b10,c1,c2,c3,c4;
+	H:
+	cout<<endl<<endl<<endl<<endl;
+	cout<<"			   ENTER YOUR CHOICE"<<endl<<endl;
+	cout<<"			    1. DC Comics"<<endl;
+	cout<<"			    2. Disney Co."<<endl;
+	cout<<"			    3. Marvel Cinematic Universe"<<endl;
+	cin>>n;
+	clrscr();
+	switch(n)
+		{
+			case 1: B:  FILE *fa;
+				char c1;
+				fa=fopen("DClist.txt","r");
+				while(1)
+					{
+					 c1=fgetc(fa);
+					 if(c1==EOF)
+					    break;
+					 delay(10);
+					 printf("%c",c1);
+					}
+				fclose(fa);
+				cin>>b;
+				 switch(b)
+				{ 
+				  case 101: clrscr(); goto H;
+				  default: clrscr(); goto E;
+				}
+				cin>>m;
+				switch(m)
+					{
+					 case 1: clrscr(); FILE * F1;
+						 char c1a;
+						 F1=fopen("Batman.txt","r");
+						 while(1)
+						      {   c1a=fgetc(F1);
+							  if(c1a==EOF)
+							     break;
+							  delay(30);
+							  printf("%c",c1a);
+						      }
+						 fclose(F1);
+						 cin>>b1;
+						 switch(b1)
+							{ case 102: clrscr(); goto B;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+
+					 case 2: clrscr(); FILE *F2;
+						 char c1b;
+						 F2=fopen("Superman.txt","r");
+						 while(1)
+							{  c1b=fgetc(F2);
+							   if(c1b==EOF)
+								break;
+								delay(30);
+							   printf("%c",c1b);
+							}
+						 fclose(F2);
+						 cin>>b2;
+						 switch(b2)
+							{ case 102: clrscr(); goto B;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+					case 3: clrscr(); FILE *F3;
+						 char c1c;
+						 F3=fopen("flash.txt","r");
+						 while(1)
+							{  c1c=fgetc(F3);
+							   if(c1c==EOF)
+								break;
+								delay(30);
+							   printf("%c",c1c);
+							}
+						 fclose(F3);
+						 cin>>b3;
+						 switch(b3)
+							{ case 102: clrscr(); goto B;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+					case 4: clrscr(); FILE *F4;
+						 char c1d;
+						 F4=fopen("wowo.txt","r");
+						 while(1)
+							{  c1d=fgetc(F4);
+							   if(c1d==EOF)
+								break;
+								delay(30);
+							   printf("%c",c1d);
+							}
+						 fclose(F4);
+						 cin>>b4;
+						 switch(b4)
+							{ case 102: clrscr(); goto B;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+					case 5: clrscr(); FILE *F5;
+						 char c1e;
+						 F5=fopen("gl.txt","r");
+						 while(1)
+							{  c1e=fgetc(F5);
+							   if(c1e==EOF)
+								break;
+								delay(30);
+							   printf("%c",c1e);
+							}
+						 fclose(F5);
+						 cin>>b5;
+						 switch(b5)
+							{ case 102: clrscr(); goto B;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+					case 6: clrscr(); FILE *F6;
+						 char c1f;
+						 F6=fopen("death.txt","r");
+						 while(1)
+							{  c1f=fgetc(F6);
+							   if(c1f==EOF)
+								break;
+								delay(30);
+							   printf("%c",c1f);
+							}
+						 fclose(F6);
+						 cin>>b6;
+						 switch(b6)
+							{ case 102: clrscr(); goto B;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+					case 7: clrscr(); FILE *F7;
+						 char c1g;
+						 F7=fopen("joker.txt","r");
+						 while(1)
+							{  c1g=fgetc(F7);
+							   if(c1g==EOF)
+								break;
+								delay(30);
+							   printf("%c",c1g);
+							}
+						 fclose(F7);
+						 cin>>b7;
+						 switch(b7)
+							{ case 102: clrscr(); goto B;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+					case 8: clrscr(); FILE *F8;
+						 char c1h;
+						 F8=fopen("harqui.txt","r");
+						 while(1)
+							{  c1h=fgetc(F8);
+							   if(c1h==EOF)
+								break;
+								delay(30);
+							   printf("%c",c1h);
+							}
+						 fclose(F8);
+						 cin>>b8;
+						 switch(b8)
+							{ case 102: clrscr(); goto B;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+
+					 case 9: clrscr(); FILE *F9;
+						 char c1i;
+						 F9=fopen("lex.txt","r");
+						 while(1)
+							{
+							 c1i=fgetc(F9);
+							 if(c1i==EOF)
+							 break;
+							 delay(30);
+							 printf("%c",c1i);
+							}
+						 fclose(F9);
+						 cin>>b9;
+						 switch(b9)
+							{ case 102: clrscr(); goto B;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+					case 10: clrscr(); FILE *F10;
+						 char c1j;
+						 F10=fopen("sines.txt","r");
+						 while(1)
+							{  c1j=fgetc(F10);
+							   if(c1j==EOF)
+								break;
+								delay(30);
+							   printf("%c",c1j);
+							}
+						 fclose(F10);
+						 cin>>b10;
+						 switch(b10)
+							{ case 102: clrscr(); goto B;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+
+					 }
+			case 2: clrscr();
+				A:  FILE *fb;
+				char d1;
+				fb=fopen("dlist.txt","r");
+				while(1)
+					{
+					 d1=fgetc(fb);
+					 if(d1==EOF)
+					    break;
+					 delay(10);
+					 printf("%c",d1);
+					}
+				fclose(fb);
+				cin>>o;
+				switch(o)
+				{
+					 case 1: clrscr(); FILE * G1;
+						 char d1a;
+						 G1=fopen("yoda.txt","r");
+						 while(1)
+						      {   d1a=fgetc(G1);
+							  if(d1a==EOF)
+							     break;
+							  delay(30);
+							  printf("%c",d1a);
+						      }
+						 fclose(G1);
+						 cin>>c1;
+						 switch(c1)
+							{ case 102: clrscr(); goto A;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+
+					 case 2: clrscr(); FILE *G2;
+						 char d1b;
+						 G2=fopen("darky.txt","r");
+						 while(1)
+							{  d1b=fgetc(G2);
+							   if(d1b==EOF)
+								break;
+								delay(30);
+							   printf("%c",d1b);
+							}
+						 fclose(G2);
+						 cin>>c2;
+						 switch(c2)
+							{ case 102: clrscr(); goto A;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+					case 3: clrscr(); FILE *G3;
+						 char d1c;
+						 G3=fopen("luky.txt","r");
+						 while(1)
+							{  d1c=fgetc(G3);
+							   if(d1c==EOF)
+								break;
+								delay(30);
+							   printf("%c",d1c);
+							}
+						 fclose(G3);
+						 cin>>c3;
+						 switch(c3)
+							{ case 102: clrscr(); goto A;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+					case 4: clrscr(); FILE *G4;
+						 char d1d;
+						 G4=fopen("jacky.txt","r");
+						 while(1)
+							{  d1d=fgetc(G4);
+							   if(d1d==EOF)
+								break;
+								delay(30);
+							   printf("%c",d1d);
+							}
+						 fclose(G4);
+						 cin>>c4;
+						 switch(c4)
+							{ case 102: clrscr(); goto A;
+							  case 101: clrscr(); goto H;
+							  default: clrscr(); goto E;
+							}
+			
+
+		}
+	}
+	getch();
+	E:
+}

@@ -1,0 +1,15 @@
+			NAME: Loki
+		
+	    FIRST APPEARENCE: Spy Smasher #8
+		
+		SKILLS:-
+	  Agility, Animal Control, Divine Powers, Fire Control, Illusion Casting
+          Intellect, Invisibility, Invulnerability, Longevity, Magic, Mesmerize
+          Shape Shifter, Size Manipulation, Stamina, Stealth, Super Strength
+	  Swordsmanship, Unarmed Combat, Voice-induced Manipulation, Weapon Master
+
+		DESCRIPTION:-
+	Loki is a Norse god associated with fire, magic, and trickery. 
+	He fathered Hel, Fenrir, Jormungandr, and Slepnir (Odin's steed), 
+	among others. He is the husband of the goddess Sigyn. 
+	Loki is one of the few giants who are allied with the Norse gods

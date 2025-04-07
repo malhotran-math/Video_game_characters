@@ -1,0 +1,28 @@
+				NAME: Sinestro
+			   REAL NAME: Thaal Sinestro
+    NICKNAMES:The Renegade Green Lantern,The Fallen Lantern,Sinestro of Korugar
+
+	FIRST APPEARANCE: Green Lantern #7 - The Day 100,000 People Vanished!
+
+
+
+   SKILLS:
+   Energy Absorption,Energy Based Constructs,Energy-Enhanced Strike,Flight
+   Force Field,Healing,Holographic Projection,Intellect,Leadership
+   Light Projection,Phasing / Ghost,Power Item,Stamina,Super Speed
+   Super Strength,Unarmed Combat,Willpower-Based Constructs
+
+   DESCRIPTION:
+   One of the greatest Green Lanterns there ever was, Sinestro was corrupted 
+   by power and banned from the Green Lantern Corps by the Guardians of the 
+   Universe. Upon achieving his ultimate goal of exposing and bringing justice
+   to the corruption of the Guardians, Sinestro has relegated himself to 
+   self-exile as penance for the many actions and sins he has committed over 
+   time in order to save anyone else from participating and therefore sharing 
+   in his guilt. He currently controls Parallax, the fear entity.
+	
+	
+	
+		<100> Exit
+		<101> Home
+		<102> Back

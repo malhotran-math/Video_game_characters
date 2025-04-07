@@ -1,0 +1,21 @@
+		      	    NAME: Captain Jack Sparrow
+			    REAL NAME: Jack Sparrow
+	            	   NICKNAMES: Captain Sparrow
+ 			
+	 		FIRST APPEARENCE: Cracked #363
+
+	SKILLS:
+   	Adaptive,Agility,Attractive Male,Escape Artist,Gadgets
+	Intellect,Leadership,Marksmanship,Power Item,Stamina
+	Swordsmanship,Tracking,Unarmed Combat,Weapon Master
+
+  	DESCRIPTION:
+	Either the best or worst pirate who has ever lived,
+	depending whom you address. He can be treacherous 
+	and survives mostly by using wit and negotiation rather 
+	than by force, opting to flee most dangerous situations 
+	and to fight only when necessary. 
+			 
+		<100> Exit
+		<101> Home
+		<102> Back

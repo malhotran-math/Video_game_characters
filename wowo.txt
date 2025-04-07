@@ -1,0 +1,38 @@
+				
+				NAME: Wonder Woman
+			   REAL NAME: Diana of Themyscira
+	NICKNAMES:Princess Diana, Princess of the Amazons,Goddess of Truth
+
+		       FIRST APPEARENCE: All-Star Comics #8
+
+
+
+
+	SKILLS:-
+	Agility, Attractive Female,Berserker Strength,Divine Powers
+	Empathy,Flight,Healing,Immortal,Insanely Rich,Intellect
+	Invulnerability,Leadership,Marksmanship,Omni-lingual
+	Power Item,Stamina,Super Hearing,Super Sight,Super Speed
+	Super Strength,Swordsmanship,Tracking,Unarmed Combat
+	Weapon Master
+
+
+	DESCRIPTION:-
+	Born the daughter of Queen Hippolyta on Paradise Island 
+	to a race of Amazon Warriors, Diana is a princess, an 
+	ambassador, a warrior and a superhero. Using divine powers,
+	granted to her by the Gods of Olympus, Diana went to the 
+	United States of America to fight for peace, justice and 
+	truth as Wonder Woman.
+
+
+
+
+	
+		<100> Exit
+		<101> Home
+		<102> Back
+
+
+
+		

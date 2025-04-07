@@ -1,0 +1,26 @@
+				NAME: Flash
+			   REAL NAME: Bartholomew Henry Allen
+	NICKNAMES:The Fastest Man Alive,Trans-Visible Man,The Human Bolt
+  FIRST APPEARANCE: 
+Showcase #4-Mystery of the Human Thunderbolt/The Man Who Broke the Time Barrier
+
+
+	SKILLS:
+	Agility,Force Field,Healing,Intellect,Invisibility,Leadership
+	Longevity,Phasing / Ghost,Stamina,Super Speed,Time Travel
+	Unarmed Combat,Wind Bursts
+
+	DESCRIPTION:
+	After being doused in chemicals and then being struck by lightning, 
+	forensic scientist, Barry Allen, was granted the gift of super speed. 
+	Barry then became The Flash, the fastest man alive. Drawing his 
+	energy from the Speed Force, Barry protects the citizens of his 
+	hometown Central City, and is also a founding member of the 
+	Justice League. Barry is a key part to his Universe because after 
+	changing the time stream for the worst, he saved it and changed 
+	things back to the way they were more or less.
+	
+	
+		<100> Exit
+		<101> Home
+		<102> Back

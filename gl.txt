@@ -1,0 +1,31 @@
+				NAME: Green Lantern
+			   REAL NAME: Harold Jordan
+		  NICKNAMES: Green Lantern,Pol Manning,The Brave,Ring Slinger
+
+  FIRST APPEARANCE: 
+Showcase #22-S.O.S.Green Lantern/Secret of the Flaming Sphere/Menace of the Runaway Missile!		
+	
+
+	SKILLS:
+	Astral Projection,Attractive Male,Blast Power,Energy Absorption
+	Energy Based Constructs,Energy Shield,Energy-Enhanced Strike
+	Flight,Force Field,Healing,Holographic Projection,Hypnosis
+	Invisibility,Leadership,Levitation,Light Projection
+	Phasing / Ghost,Power Item,Super Speed,Super Strength
+	Unarmed Combat,Willpower-Based Constructs
+
+
+	DESCRIPTION:-
+	With the ability to overcome great fear and harness the power of will, 
+	test-pilot Hal Jordan was chosen to be the Green Lantern of 
+	Sector 2814 inheriting the ring of the dying alien Green Lantern,
+	Abin Sur. Through sheer will power and determination, Hal has 
+	established an impressive record of heroism across the galaxy with 
+	the help of his fellow Green Lanterns as well as his peers in the JLA.
+
+
+
+
+		<100> Exit
+		<101> Home
+		<102> Back

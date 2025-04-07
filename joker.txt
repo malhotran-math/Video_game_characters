@@ -1,0 +1,27 @@
+				NAME: Joker
+			   REAL NAME:   -
+	NICKNAMES: Clown Prince of Crime,King of Arkham Asylum,Ace of Knaves
+			
+				BIRTHDAY: April 01, 1940
+	 
+FIRST APPEARANCE: 
+  Batman #1-The Legend of the Batman:Who He Is and How He Came To Be;The Joker
+
+
+	SKILLS:
+	Adaptive,Agility,Attractive Male,Escape Artist,Gadgets
+	Healing,Immortal,Intellect,Leadership,Longevity
+	Marksmanship,Poisonous,Stamina,Stealth,Unarmed Combat
+	Weapon Master
+	
+
+	DESCRIPTION:
+	The Joker, Clown Prince of Crime, is Batman's arch-nemesis.
+	An agent of chaos known for his purple three-piece suit 
+	and insidious smile, he has caused Batman more suffering 
+	than any other villain he has ever faced. His origin, name, 
+	and true motivations remain a mystery.
+	
+		<100> Exit
+		<101> Home
+		<102> Back
